@@ -11,5 +11,5 @@ Instructions:
 * Read the discussion on pages One-13 through One-14 and write down any questions.  Bring these to class.
 * Once you have finished working, commit your changes to your computer
 * Push the code from your local computer up to your personal Github account
-* Initiate a "Pull Request" from your completed project.  This will let me know that you are ready for me to evaluate your work.
+* Initiate a "Pull Request" from your completed project.  This will let me know that you are ready for me to evaluate your work. Use a meaningful comment that indicates you are ready for me to grade your lab.
 
